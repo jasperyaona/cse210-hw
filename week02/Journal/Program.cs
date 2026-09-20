@@ -1,3 +1,4 @@
+// Added filename validation that automatically handles the .txt extension and verifies that the file exists before loading it, preventing errors from invalid filenames.
 using System;
 
 class Program
