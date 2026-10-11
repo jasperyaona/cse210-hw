@@ -1,0 +1,6 @@
+300
+Simple|Read the  BOM|Read the BOM for 10mins|100|False
+Eternal|Get Married in the Temple|Being married in the temple|2000
+Checklist|Play game|Play Games for Fun|200|2|200|1
+Simple|Sports|Play Soccer|100|True
+Checklist|Guitar|Play Guitar 2 times this week|200|2|100|0
